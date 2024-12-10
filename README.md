@@ -33,10 +33,12 @@ To run the scripts and experiments in this repository:
 - **`README.md`**: This file, documenting the project.
 - **`.gitignore`**: Contains files/folders to be ignored by Git.
 - **`requirements.txt`**: Lists Python dependencies.
-- **`regexcapade1.py`**: re scripts where I practice regex with python. So far: 1. raw strings 2. finding pattern(s) in text.
+- **`regex-helper.txt`**: reg expressions helper. Learn at your own pace!
+- **`regexcapade1.py`**: re python scripts where I practice regex with python. So far: 1. raw strings.
+- **`regexcapade2.py`**: py script 2. finding pattern(s) in text.
 
 ## How to Contribute
-Suggestions are welcome! Feel free to open an issue or submit a pull request if you have ideas to improve this project.
+Suggestions are always welcome! Feel free to submit a pull request or open an issue if you have ideas to improve this regex project.
 
 ---
 
